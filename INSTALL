@@ -1,0 +1,15 @@
+RLY08.C
+=======
+
+Compile using gcc:
+
+gcc src/rly08.c -o rly08
+
+Then copy the binary anywhere in the path to make it accesible.
+
+cp rly08 /usr/local/bin/rly08
+
+Modules
+=======
+ftdi_sio module is needed.
+
