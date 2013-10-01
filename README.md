@@ -1,9 +1,10 @@
-USBRLY08
-========
+USB RLY08
+=========
 
-Simple interface to USBRLY08 relay module written in "c"
+Simple interface to USBRLY08 relay module written in C.
 
-Samples:
+
+## Using the binary ##
 
 Turn on relays 5 and 8
 ```
